@@ -16,7 +16,7 @@ JAVASCRIPT
 
 Steps to use :-
 
-Project is live [Here](https://imhr1306.github.io/BharatIntern_Task_2/
+Project is live [Here](https://imhr1306.github.io/BharatIntern_Task_2/)
 
 or
 
