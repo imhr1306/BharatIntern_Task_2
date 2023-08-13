@@ -4,7 +4,7 @@
 
 Create a Portfolio Website
 
-This is a simple responsive Portfolio Webpage .
+This is a simple responsive Portfolio Webpage 
 
 Technologies used :-
 
